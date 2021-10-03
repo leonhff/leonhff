@@ -4,7 +4,7 @@
 
 ### About me
 - 🌚 I am more productive at night than during the day
-- LINUXI use linux
+- I use linux
 - 📄 I use VisualStudio Code
 
 <!--
