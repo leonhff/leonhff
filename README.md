@@ -1,5 +1,5 @@
-#### Hi 👋
-### My name is Leon
+# Hi 👋
+## My name is Leon
 ## I'm a student and novice programmer 💻
 
 ### About me
