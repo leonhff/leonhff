@@ -1,4 +1,11 @@
-### Hi there 👋
+#### Hi 👋
+###My name is Leon
+##I'm a student and novice programmer 💻
+
+###About me
+-🌚 I am more productive at night than during the day
+-LINUXI use linux
+-📄 I use VisualStudio Code
 
 <!--
 **leonhff/leonhff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
